@@ -4,3 +4,6 @@
 - Atualmente estudando HTML
 ## 🛠️Ferramenta
 - HTML
+- CSS
+- JavaScript
+- Java
